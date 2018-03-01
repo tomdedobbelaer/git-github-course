@@ -1,2 +1,2 @@
 # git-github-course
-test repository 
+My first repository on Github
