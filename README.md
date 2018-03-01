@@ -4,4 +4,4 @@ test repository
 
 this line was edited in Rstudio
 
-*step 1
+*edit 1 in readme
